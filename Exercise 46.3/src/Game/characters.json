@@ -1,0 +1,143 @@
+
+[
+    {
+        "id": 1,
+        "clicked" : false,
+        "name": "Angelina Jolie Voight",
+        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/1Anjelina-Jolie.jpg",
+        "occupation": "Actress, Director"
+      },
+      {
+        "id": 2,
+        "clicked" : false,
+        "name": "Charlize Theron",
+        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/2sharliz.jpg",
+        "occupation": "Model, Actress"
+      },
+      {
+        "id": 3,
+        "clicked" : false,
+        "name": "Jessica Alba",
+        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/3Alba.jpg",
+        "occupation": "Model, Actress"
+      },
+      {
+        "id": 4,
+        "clicked" : false,
+        "name": "Megan Denise Fox",
+        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/4Megan_Fox.jpg",
+        "occupation": "Model, Actress"
+      },
+      {
+        "id": 5,
+        "clicked" : false,
+        "name": "Keira Knightley",
+        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/6Keira_Knightley.jpg",
+        "occupation": "Actress"
+      },
+      {
+        "id": 6,
+        "clicked" : false,
+        "name": "Nina Dobrev",
+        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/8nina_Dobrev.jpg",
+        "occupation": "Actress"
+      },
+      {
+        "id": 7,
+        "clicked" : false,
+        "name": "Maria Bellucci",
+        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/9Monica.jpg",
+        "occupation": "Model, Actress"
+      },
+      {
+        "id": 8,
+        "clicked" : false,
+        "name": "Justin Bieber",
+        "image": "https://th.bing.com/th/id/OIP._N4WE04iRL2LCXGvHe78-wHaK0?pid=ImgDet&rs=1",
+        "occupation": "Singer"
+      },
+      {
+        "id": 9,
+        "clicked" : false,
+        "name": "Daddy Yankee",
+        "image": "https://media1.fdncms.com/orlando/imager/u/original/2514354/gal_sel_daddy-yankee-2016.jpg",
+        "occupation": "Singer"
+      },
+      {
+        "id": 10,
+        "clicked" : false,
+        "name": "Sean Paul",
+        "image": "https://img.discogs.com/rrTYw4ah2wiS7gQx4P8vZuaYAP8=/593x763/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-111502-1588075819-4637.jpeg.jpg",
+        "occupation": "Singer"
+      },
+      {
+        "id": 11,
+        "clicked" : false,
+        "name": "Deadpool",
+        "image": "https://vignette.wikia.nocookie.net/marvelmovies/images/6/66/Deadpool_promo.png/revision/latest?cb=20150707202600",
+        "occupation": "Hero"
+      },
+      {
+        "id": 12,
+        "clicked" : false,
+        "name": "Sofia Vergara",
+        "image": "https://i.dailymail.co.uk/i/newpix/2018/09/18/20/5017C57300000578-6182201-image-a-100_1537300563965.jpg",
+        "occupation": "Actress"
+      },
+      {
+        "id": 13,
+        "clicked" : false,
+        "name": "Anushka Sharma",
+        "image": "https://th.bing.com/th/id/R.4cbe9aa31bcdaed49b7208f98b44690c?rik=mKVvwcKRVi7zgg&riu=http%3a%2f%2f2.bp.blogspot.com%2f_aOVUVB-gmBA%2fTNwjOIQXnTI%2fAAAAAAAAsvw%2f8Wok7OQHsaY%2fs1600%2fHot_Bollywood_Actresses%2b%2525284%252529.jpg&ehk=YQsfk0cdbdhfV46iH12RXUtKt6hemEoQDHxJJiBDj6k%3d&risl=&pid=ImgRaw&r=0",
+        "occupation": "Indian Actress"
+      },
+      {
+        "id": 14,
+        "clicked" : false,
+        "name": "Deepika Padokune",
+        "image": "https://1.bp.blogspot.com/-la3HJkyXSZ8/Xc0JbaW4W3I/AAAAAAAABFg/hZppEf7HHLUHuKdhqvKaLF_tW5RQMU-EACNcBGAsYHQ/s1600/deepika-padukone-latest-pictures.jpg",
+        "occupation": "Indian Actress"
+      },
+      {
+        "id": 15,
+        "clicked" : false,
+        "name": "Priyanka Chopra",
+        "image": "https://celebmafia.com/wp-content/uploads/2018/01/priyanka-chopra-deadline-studio-portraits-at-sundance-2018-13.jpg",
+        "occupation": "Indian Actress"
+      },
+      {
+        "id": 16,
+        "clicked" : false,
+        "name": "Tom Felton",
+        "image": "https://th.bing.com/th/id/OIP.XY3axObBduqDQH4bbtqpIAHaJ4?pid=ImgDet&rs=1",
+        "occupation": "Actor"
+      },
+      {
+        "id": 17,
+        "clicked" : false,
+        "name": "Akshay Kumar",
+        "image": "https://filmfare.wwmindia.com/content/2021/feb/akshaykumar11613476879.jpg",
+        "occupation": " Indian Actor"
+      },
+      {
+        "id": 18,
+        "clicked" : false,
+        "name": "Allu Arjun",
+        "image": "https://www.finetoshine.com/wp-content/uploads/2020/07/Allu-Arjun-stylish-star-latest-photos-download-in-2020.jpg",
+        "occupation": " Indian Actor"
+      },
+      {
+        "id": 19,
+        "clicked" : false,
+        "name": "Rashmika Mandanna",
+        "image": "https://www.tollywood.net/wp-content/uploads/2020/02/e1.jpg",
+        "occupation": " Indian Actress"
+      },
+      {
+        "id": 20,
+        "clicked" : false,
+        "name": "Ajay Devgan",
+        "image": "https://www.mwallpapers.com/photos/celebrities/ajay-devgan/ajay-devgan-hd-images-1080p-dkga4d.jpg",
+        "occupation": " Indian Actor"
+      }
+]
